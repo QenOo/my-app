@@ -23,7 +23,6 @@ const Header = ({ currentUser }) => (
                 }
             </div>
         </div>
-        {console.log(currentUser)}
     </>
 )
 
